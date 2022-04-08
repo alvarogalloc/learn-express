@@ -1,0 +1,13 @@
+{
+  "name": "learn-express",
+  "version": "1.0.0",
+  "description": "Learning express by myself",
+  "main": "index.js",
+  "repository": "https://github.com/alvarogalloc/learn-express.git",
+  "author": "Alvaro Gallo <galloalvaro5@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
